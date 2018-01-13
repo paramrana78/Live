@@ -28,6 +28,14 @@ Simple Image Enhancer
 
 https://goo.gl/YZHQaS
 
+Skyblue
+
+https://goo.gl/mCGV8u
+
+Calling Card
+
+https://goo.gl/bddHCg
+
 stackinqueue developers
 
 https://goo.gl/XCpAMC
