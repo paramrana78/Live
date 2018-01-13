@@ -28,6 +28,10 @@ Simple Image Enhancer
 
 https://goo.gl/YZHQaS
 
+stackinqueue developers
+
+https://goo.gl/XCpAMC
+
 Radio Des Pardes
 
 https://goo.gl/7eN2pD
