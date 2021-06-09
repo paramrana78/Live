@@ -1,5 +1,6 @@
 # Live
 checkout my live projects
+I'm no longer maintaining these projects due to time constraints.
 
 
 Currently Live on google play:
