@@ -1,16 +1,16 @@
 # Live
 checkout my live projects
-I'm no longer maintaining these projects due to time constraints.
+I'm no longer maintaining these projects.
 
 
-Currently Live on google play:
+Currently Live on Google Play:
 
 Evergreen e-Learning
 
 https://goo.gl/TSKRNw
 
 
-Placed on google play but now moved:
+Placed on Google Play but now moved:
 
 Brain Teaser
 
